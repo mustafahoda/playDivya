@@ -1,0 +1,1115 @@
+1519196900994	geckodriver	INFO	geckodriver 0.19.1
+1519196901050	geckodriver	INFO	Listening on 127.0.0.1:63283
+1519196902342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.XowBMQBAA08u"
+1519196903165	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:08:24.269 plugin-container[11591:1498639] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519196904727	Marionette	INFO	Listening on port 63290
+1519196904832	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:08:25.145 plugin-container[11593:1498756] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8633, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1519197068765	geckodriver	INFO	geckodriver 0.19.1
+1519197068826	geckodriver	INFO	Listening on 127.0.0.1:63381
+1519197069906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.WuSwB29r5FbE"
+1519197070442	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:11:11.282 plugin-container[11631:1502961] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197071644	Marionette	INFO	Listening on port 63388
+1519197071738	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:11:12.125 plugin-container[11632:1503046] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x842f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197316971	geckodriver	INFO	geckodriver 0.19.1
+1519197317034	geckodriver	INFO	Listening on 127.0.0.1:63505
+1519197318092	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.5KHkCqeVARU5"
+1519197318625	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:15:19.459 plugin-container[11659:1508017] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197319913	Marionette	INFO	Listening on port 63512
+1519197320011	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:15:20.362 plugin-container[11660:1508101] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197611658	geckodriver	INFO	geckodriver 0.19.1
+1519197611716	geckodriver	INFO	Listening on 127.0.0.1:63617
+1519197612776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.EeDrpMznJjIX"
+1519197613268	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:20:14.115 plugin-container[11693:1513574] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x830b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197614499	Marionette	INFO	Listening on port 63624
+1519197614560	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:20:14.943 plugin-container[11694:1513682] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197725652	geckodriver	INFO	geckodriver 0.19.1
+1519197725711	geckodriver	INFO	Listening on 127.0.0.1:63691
+1519197726765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.SbaHDTwvD1H5"
+1519197727273	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:22:08.098 plugin-container[11709:1515881] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197728447	Marionette	INFO	Listening on port 63698
+1519197728565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+2018-02-21 01:22:09.062 plugin-container[11710:1515969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197779805	geckodriver	INFO	geckodriver 0.19.1
+1519197779864	geckodriver	INFO	Listening on 127.0.0.1:63762
+1519197780918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.mD6rV6BpfjrC"
+1519197781400	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:23:02.463 plugin-container[11723:1517213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197782822	Marionette	INFO	Listening on port 63769
+1519197782854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+2018-02-21 01:23:03.386 plugin-container[11724:1517300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519197839990	geckodriver	INFO	geckodriver 0.19.1
+1519197840054	geckodriver	INFO	Listening on 127.0.0.1:63835
+1519197841104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.p1dXFtRNhlwg"
+1519197841585	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:24:02.365 plugin-container[11734:1518505] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519197842708	Marionette	INFO	Listening on port 63842
+1519197842799	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:24:03.292 plugin-container[11735:1518584] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8107, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198011174	geckodriver	INFO	geckodriver 0.19.1
+1519198011231	geckodriver	INFO	Listening on 127.0.0.1:63928
+1519198012283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.y2HvLrgzyFCK"
+1519198012778	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:26:53.546 plugin-container[11750:1522530] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198013928	Marionette	INFO	Listening on port 63935
+1519198013950	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:26:54.458 plugin-container[11751:1522637] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198151092	geckodriver	INFO	geckodriver 0.19.1
+1519198151148	geckodriver	INFO	Listening on 127.0.0.1:64002
+1519198152199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.W14RJ9ha8qBh"
+1519198152677	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:29:13.475 plugin-container[11771:1525635] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198153778	Marionette	INFO	Listening on port 64009
+1519198153856	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:29:14.379 plugin-container[11772:1525724] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198214881	geckodriver	INFO	geckodriver 0.19.1
+1519198214937	geckodriver	INFO	Listening on 127.0.0.1:64089
+1519198215991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.XSP3INee2oJi"
+1519198216530	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:30:17.379 plugin-container[11783:1527157] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198217757	Marionette	INFO	Listening on port 64096
+1519198217861	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:30:18.343 plugin-container[11784:1527245] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519198401038	geckodriver	INFO	geckodriver 0.19.1
+1519198401098	geckodriver	INFO	Listening on 127.0.0.1:64176
+1519198402146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.7gz5bv4TQr0l"
+1519198402611	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:33:23.332 plugin-container[11796:1530532] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198403675	Marionette	INFO	Listening on port 64183
+1519198403730	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:33:24.310 plugin-container[11797:1530631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1519198463588	geckodriver	INFO	geckodriver 0.19.1
+1519198463647	geckodriver	INFO	Listening on 127.0.0.1:64241
+1519198464694	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.0L5RXkMDJWJW"
+1519198465156	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:34:25.908 plugin-container[11815:1532033] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198466265	Marionette	INFO	Listening on port 64248
+1519198466358	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:34:26.822 plugin-container[11816:1532107] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198502194	geckodriver	INFO	geckodriver 0.19.1
+1519198502247	geckodriver	INFO	Listening on 127.0.0.1:64315
+1519198503284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.adlwuaBgGAB5"
+1519198503718	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:35:04.445 plugin-container[11828:1532882] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198504805	Marionette	INFO	Listening on port 64322
+1519198504829	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:35:05.375 plugin-container[11829:1532982] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198555745	geckodriver	INFO	geckodriver 0.19.1
+1519198555804	geckodriver	INFO	Listening on 127.0.0.1:64382
+1519198556853	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.0KlZMGsdMOu8"
+1519198557340	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:35:58.208 plugin-container[11841:1534173] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198558640	Marionette	INFO	Listening on port 64389
+1519198558660	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:35:59.072 plugin-container[11842:1534305] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/static/bundles/ConsumerCommons.js/66b17b31c6fb.js, line 5: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519198772380	geckodriver	INFO	geckodriver 0.19.1
+1519198772445	geckodriver	INFO	Listening on 127.0.0.1:64963
+1519198773487	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.FdYCO45HopBt"
+1519198773990	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:39:34.720 plugin-container[11879:1539412] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198775052	Marionette	INFO	Listening on port 64974
+1519198775143	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:39:35.654 plugin-container[11880:1539490] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198865509	geckodriver	INFO	geckodriver 0.19.1
+1519198865564	geckodriver	INFO	Listening on 127.0.0.1:65356
+1519198866612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.SvIDZbYJbDzM"
+1519198867088	Marionette	INFO	Enabled via --marionette
+2018-02-21 01:41:07.832 plugin-container[11895:1541461] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f2b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519198868190	Marionette	INFO	Listening on port 65367
+1519198868285	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 01:41:08.750 plugin-container[11896:1541544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://www.instagram.com/static/bundles/ConsumerCommons.js/66b17b31c6fb.js, line 5: NS_ERROR_NOT_INITIALIZED: 
+1519231086308	geckodriver	INFO	geckodriver 0.19.1
+1519231086392	geckodriver	INFO	Listening on 127.0.0.1:54543
+1519231087420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.4o1aJ8OmLtyM"
+1519231088256	Marionette	INFO	Enabled via --marionette
+2018-02-21 10:38:09.338 plugin-container[12385:1643005] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x770b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519231089819	Marionette	INFO	Listening on port 54554
+1519231089921	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-21 10:38:10.242 plugin-container[12386:1643109] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519707381085	geckodriver	INFO	geckodriver 0.19.1
+1519707381160	geckodriver	INFO	Listening on 127.0.0.1:58890
+1519707382193	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.Ji0dQ46YzB6j"
+1519707382984	Marionette	INFO	Enabled via --marionette
+2018-02-26 22:56:23.968 plugin-container[2587:715445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519707384448	Marionette	INFO	Listening on port 58901
+1519707384486	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-26 22:56:24.885 plugin-container[2588:715544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519707415818	geckodriver	INFO	geckodriver 0.19.1
+1519707415870	geckodriver	INFO	Listening on 127.0.0.1:58976
+1519707416896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.nYTzbtnfwRnv"
+1519707417349	Marionette	INFO	Enabled via --marionette
+2018-02-26 22:56:58.094 plugin-container[2595:716828] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519707418440	Marionette	INFO	Listening on port 58987
+1519707418446	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-26 22:56:59.044 plugin-container[2596:716910] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2596, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519707542942	geckodriver	INFO	geckodriver 0.19.1
+1519707543017	geckodriver	INFO	Listening on 127.0.0.1:59279
+1519707544090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.UDsPlvzjNKQ2"
+1519707544795	Marionette	INFO	Enabled via --marionette
+2018-02-26 22:59:05.797 plugin-container[2630:720569] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519707546219	Marionette	INFO	Listening on port 59298
+1519707546294	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-26 22:59:07.643 plugin-container[2632:720724] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519707629313	geckodriver	INFO	geckodriver 0.19.1
+1519707629371	geckodriver	INFO	Listening on 127.0.0.1:59706
+1519707630406	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.3xNVmuRNQlqD"
+1519707630870	Marionette	INFO	Enabled via --marionette
+2018-02-26 23:00:31.639 plugin-container[2646:722941] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519707631988	Marionette	INFO	Listening on port 59721
+1519707632061	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-26 23:00:32.550 plugin-container[2647:723029] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519707660222	geckodriver	INFO	geckodriver 0.19.1
+1519707660279	geckodriver	INFO	Listening on 127.0.0.1:59905
+1519707661318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.70PhRJws9K2M"
+1519707661784	Marionette	INFO	Enabled via --marionette
+2018-02-26 23:01:02.509 plugin-container[2660:724181] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519707662881	Marionette	INFO	Listening on port 59920
+1519707662982	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-26 23:01:03.447 plugin-container[2661:724278] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519707688843	geckodriver	INFO	geckodriver 0.19.1
+1519707688905	geckodriver	INFO	Listening on 127.0.0.1:60091
+1519707689936	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.UYRvIFUmwob6"
+1519707690406	Marionette	INFO	Enabled via --marionette
+2018-02-26 23:01:31.155 plugin-container[2671:724940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519707691583	Marionette	INFO	Listening on port 60106
+1519707691621	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-26 23:01:32.047 plugin-container[2672:725019] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-02-26 23:09:49.618 plugin-container[2708:736568] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519770948892	geckodriver	INFO	geckodriver 0.19.1
+1519770948966	geckodriver	INFO	Listening on 127.0.0.1:64639
+1519770950030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.3iVr7n49zUvu"
+1519770950773	Marionette	INFO	Enabled via --marionette
+2018-02-27 16:35:51.798 plugin-container[3826:1099390] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519770952326	Marionette	INFO	Listening on port 64646
+1519770952350	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-27 16:35:52.663 plugin-container[3827:1099512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519792954190	geckodriver	INFO	geckodriver 0.19.1
+1519792954269	geckodriver	INFO	Listening on 127.0.0.1:49962
+1519792955308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.IXRqBesYsB9l"
+1519792956041	Marionette	INFO	Enabled via --marionette
+2018-02-27 22:42:37.058 plugin-container[5902:1246293] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519792957518	Marionette	INFO	Listening on port 49969
+1519792957569	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-27 22:42:37.868 plugin-container[5903:1246385] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519831372190	geckodriver	INFO	geckodriver 0.19.1
+1519831372262	geckodriver	INFO	Listening on 127.0.0.1:49644
+1519831373274	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.U0dLxJ2D1QeV"
+1519831374024	Marionette	INFO	Enabled via --marionette
+2018-02-28 09:22:54.947 plugin-container[673:42900] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519831375426	Marionette	INFO	Listening on port 49655
+1519831375463	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-28 09:22:55.910 plugin-container[674:42987] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://www.instagram.com/static/bundles/ConsumerCommons.js/ce38eb76457f.js, line 5: NS_ERROR_NOT_INITIALIZED: 
+1519878657301	geckodriver	INFO	geckodriver 0.19.1
+1519878657376	geckodriver	INFO	Listening on 127.0.0.1:56269
+1519878658415	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.k8ccOoOXQRiz"
+1519878659174	Marionette	INFO	Enabled via --marionette
+2018-02-28 22:31:00.208 plugin-container[1797:696365] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1519878660605	Marionette	INFO	Listening on port 56280
+1519878660689	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-28 22:31:01.039 plugin-container[1798:696447] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1520576899440	geckodriver	INFO	geckodriver 0.19.1
+1520576899518	geckodriver	INFO	Listening on 127.0.0.1:62091
+1520576900540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.g9AAPJsT8j1I"
+1520576901310	Marionette	INFO	Enabled via --marionette
+2018-03-09 00:28:22.328 plugin-container[9911:1040556] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520576902848	Marionette	INFO	Listening on port 62102
+1520576902934	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-09 00:28:23.200 plugin-container[9912:1040650] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7733, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521580504629	geckodriver	INFO	geckodriver 0.19.1
+1521580504690	geckodriver	INFO	Listening on 127.0.0.1:49310
+1521580505727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.pqnrgbTg95vn"
+1521580506218	Marionette	INFO	Enabled via --marionette
+2018-03-20 16:15:06.967 plugin-container[72149:10898381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521580507302	Marionette	INFO	Listening on port 49317
+1521580507386	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-20 16:15:07.879 plugin-container[72150:10898467] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523043563171	geckodriver	INFO	geckodriver 0.19.1
+1523043563246	geckodriver	INFO	Listening on 127.0.0.1:61149
+1523043564301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.GQe8kYl8mhxt"
+1523043565072	Marionette	INFO	Enabled via --marionette
+2018-04-06 15:39:25.980 plugin-container[10506:3857967] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523043566512	Marionette	INFO	Listening on port 61157
+1523043566520	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-06 15:39:27.076 plugin-container[10507:3858057] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523043704499	geckodriver	INFO	geckodriver 0.19.1
+1523043704562	geckodriver	INFO	Listening on 127.0.0.1:61721
+1523043705604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.GwUgnoegrnVR"
+1523043706116	Marionette	INFO	Enabled via --marionette
+2018-04-06 15:41:46.976 plugin-container[10583:3862167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523043707388	Marionette	INFO	Listening on port 61736
+1523043707480	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-06 15:41:47.854 plugin-container[10584:3862247] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523043750269	geckodriver	INFO	geckodriver 0.19.1
+1523043750329	geckodriver	INFO	Listening on 127.0.0.1:62016
+1523043751388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.P1oUtcS3Dymz"
+1523043751884	Marionette	INFO	Enabled via --marionette
+2018-04-06 15:42:32.766 plugin-container[10624:3863715] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523043753204	Marionette	INFO	Listening on port 62027
+1523043753266	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-06 15:42:33.606 plugin-container[10625:3863795] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540867207073	geckodriver	INFO	geckodriver 0.19.1
+1540867207148	geckodriver	INFO	Listening on 127.0.0.1:57566
+1540867208508	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.rrkbCKOcXEdR"
+2018-10-29 21:40:13.885 plugin-container[5343:776920] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:40:14.201 plugin-container[5343:776920] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x117d3d9d0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:40:14.204 plugin-container[5343:776932] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540867214434	Marionette	INFO	Listening on port 57577
+2018-10-29 21:40:14.790 plugin-container[5345:776997] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:40:14.886 plugin-container[5345:776997] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1072e0910 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:40:14.889 plugin-container[5345:776999] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+1540867447250	geckodriver	INFO	geckodriver 0.19.1
+1540867447349	geckodriver	INFO	Listening on 127.0.0.1:57720
+1540867448545	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.CbC41zTXdTMB"
+2018-10-29 21:44:09.936 plugin-container[6178:784617] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:44:10.181 plugin-container[6178:784617] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x11ab0fc40 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:44:10.185 plugin-container[6178:784621] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540867450354	Marionette	INFO	Listening on port 57732
+1540867450423	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-29 21:44:10.809 plugin-container[6179:784697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:44:10.916 plugin-container[6179:784697] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10bde0370 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:44:10.920 plugin-container[6179:784699] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+1540867479321	geckodriver	INFO	geckodriver 0.19.1
+1540867479464	geckodriver	INFO	Listening on 127.0.0.1:57804
+1540867480522	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.rKs07piVEsZk"
+2018-10-29 21:44:41.852 plugin-container[6188:785264] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:44:41.991 plugin-container[6188:785264] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10f416c40 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:44:41.995 plugin-container[6188:785274] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540867482270	Marionette	INFO	Listening on port 57815
+1540867482361	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-29 21:44:43.942 plugin-container[6189:785437] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:44:44.288 plugin-container[6189:785437] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1097e0940 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:44:44.296 plugin-container[6189:785454] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+1540867573379	geckodriver	INFO	geckodriver 0.19.1
+1540867573456	geckodriver	INFO	Listening on 127.0.0.1:57899
+1540867574591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.pb1jkASDXAKb"
+2018-10-29 21:46:16.237 plugin-container[6210:787218] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:46:16.400 plugin-container[6210:787218] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1005d3af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:46:16.404 plugin-container[6210:787220] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540867576936	Marionette	INFO	Listening on port 57910
+1540867576987	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-29 21:46:17.910 plugin-container[6211:787347] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+2018-10-29 21:46:18.121 plugin-container[6211:787347] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10b7e0910 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:46:18.126 plugin-container[6211:787349] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1540867692648	geckodriver	INFO	geckodriver 0.19.1
+1540867692704	geckodriver	INFO	Listening on 127.0.0.1:58001
+1540867693846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.VlA28DSrhsmC"
+2018-10-29 21:48:15.262 plugin-container[6225:790035] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:48:15.395 plugin-container[6225:790035] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1152604f0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:48:15.398 plugin-container[6225:790045] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540867695696	Marionette	INFO	Listening on port 58012
+1540867695757	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-29 21:48:16.188 plugin-container[6226:790114] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:48:16.330 plugin-container[6226:790114] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x112ee0910 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:48:16.334 plugin-container[6226:790115] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+1540867727243	geckodriver	INFO	geckodriver 0.19.1
+1540867727321	geckodriver	INFO	Listening on 127.0.0.1:58090
+1540867728414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.eFUemoAJNfAC"
+2018-10-29 21:48:49.767 plugin-container[6235:790960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x872b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-29 21:48:49.904 plugin-container[6235:790960] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x112c14c40 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:48:49.907 plugin-container[6235:790973] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540867730147	Marionette	INFO	Listening on port 58101
+1540867730213	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-29 21:48:50.693 plugin-container[6236:791044] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+2018-10-29 21:48:50.832 plugin-container[6236:791044] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10e2e0910 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-29 21:48:50.837 plugin-container[6236:791045] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+2018-10-30 07:47:48.793 plugin-container[6527:882164] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-30 07:47:49.092 plugin-container[6527:882164] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1102e6910 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:47:49.100 plugin-container[6527:882172] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+1540904036682	geckodriver	INFO	geckodriver 0.19.1
+1540904036748	geckodriver	INFO	Listening on 127.0.0.1:58926
+1540904038169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.mGAoXgMYe4YG"
+2018-10-30 07:53:59.875 plugin-container[6545:887510] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-30 07:54:00.150 plugin-container[6545:887510] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1091d2af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:54:00.158 plugin-container[6545:887521] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540904040522	Marionette	INFO	Listening on port 58937
+1540904040650	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-30 07:54:01.110 plugin-container[6546:887705] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-30 07:54:01.216 plugin-container[6546:887705] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1140e0670 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:54:01.219 plugin-container[6546:887710] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+1540904120008	geckodriver	INFO	geckodriver 0.19.1
+1540904120062	geckodriver	INFO	Listening on 127.0.0.1:59014
+1540904121660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.vScS9wh6dQbZ"
+2018-10-30 07:55:23.205 plugin-container[6557:889502] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-30 07:55:23.446 plugin-container[6557:889502] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x119e1ac40 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:55:23.449 plugin-container[6557:889504] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540904123677	Marionette	INFO	Listening on port 59025
+1540904123836	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x10003,name=PAPZ::Msg_RequestContentRepaint) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x10003,name=PAPZ::Msg_RequestContentRepaint) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1000B,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+2018-10-30 07:55:24.457 plugin-container[6558:889608] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-30 07:55:24.582 plugin-container[6558:889608] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10ede0910 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:55:24.585 plugin-container[6558:889621] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+1540904224751	geckodriver	INFO	geckodriver 0.19.1
+1540904224818	geckodriver	INFO	Listening on 127.0.0.1:59097
+1540904226162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.M1WdpgK0VaK0"
+2018-10-30 07:57:07.847 plugin-container[6588:891811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x742b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-30 07:57:08.244 plugin-container[6588:891811] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1060d3ac0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:57:08.248 plugin-container[6588:891813] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+2018-10-30 07:57:08.861 plugin-container[6589:891875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540904229058	Marionette	INFO	Listening on port 59108
+2018-10-30 07:57:09.103 plugin-container[6589:891875] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1012df910 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:57:09.107 plugin-container[6589:891877] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540904229145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+1540904271233	geckodriver	INFO	geckodriver 0.19.1
+1540904271286	geckodriver	INFO	Listening on 127.0.0.1:59190
+1540904272435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/3w/kw_509l91p9c3xdl_206xm2h0000gn/T/rust_mozprofile.J9pJPJRyTa0u"
+2018-10-30 07:57:53.934 plugin-container[6597:892965] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-30 07:57:54.050 plugin-container[6597:892965] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10afd3550 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:57:54.052 plugin-container[6597:892977] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540904274289	Marionette	INFO	Listening on port 59201
+1540904274354	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-30 07:57:54.860 plugin-container[6598:893045] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-30 07:57:54.997 plugin-container[6598:893045] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1136e0460 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-30 07:57:55.001 plugin-container[6598:893047] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/8d4b56593fff.js, line 1: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
