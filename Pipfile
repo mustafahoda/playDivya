@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 selenium = "*"
+requests = "*"
+moviepy = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.6"
