@@ -11,3 +11,16 @@ I made a quick script to automate to looping through one of my favorite IG Singe
 - moviPy: used to get the length of the video to dynamically get video length.
 - requests
 
+# Usage
+```bash
+pipenv install
+```
+
+This will install all the required Python Packages with one command!
+
+Once you have installed all the required packages:
+```python
+python playDivya.py
+```
+
+**Enjoy the music 🎧**
